@@ -23,14 +23,14 @@ Banco de Dados H2 / PostgreSQL
 Maven
 ```
 ## Funcionalidades
-✅ CRUD de Quadros (Boards)
-✅ CRUD de Listas
-✅ CRUD de Cartões
-✅ Arrastar e soltar listas e cartões
-✅ Atualização de posição (ordem) via API
-✅ Arquitetura REST
-✅ Separação Frontend e Backend
-✅ Persistência em banco de dados
+• CRUD de Quadros (Boards)
+• CRUD de Listas
+• CRUD de Cartões
+• Arrastar e soltar listas e cartões
+• Atualização de posição (ordem) via API
+• Arquitetura REST
+• Separação Frontend e Backend
+• Persistência em banco de dados
 
 ## Arquitetura do Projeto
 ```
