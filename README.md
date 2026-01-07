@@ -3,7 +3,7 @@ Aplicação Full Stack para gerenciamento de tarefas no estilo Trello, permitind
 
 ## Projeto desenvolvido com foco em boas práticas, arquitetura limpa e tecnologias modernas.
 
-🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 🔹 Frontend
 ```
 React.js
